@@ -7,8 +7,8 @@ Builds and emulates a real-world library database from the ground up. Includes t
 
 ## Tech Stack
 * **Language:** SQL, Python  
-* **Libraries:** Pandas, Mysql.connector, GetPass
-* **Visualization:** Matplotlib
+* **Libraries:** `pandas`, `mysql.connector`, `getpass`
+* **Visualization:** `matplotlib`
   
 ## Requirements
 
