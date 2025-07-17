@@ -3,7 +3,7 @@ Builds and emulates a real-world library database from the ground up. Includes t
 
 ## Features
 * Tracks library metadata for each user involved in the system.
-* Generate summaries on library usage, user activity, inventory levels, and borrowing patterns.
+* Generates summaries on library usage, user activity, inventory levels, and borrowing patterns.
 
 ## Tech Stack
 * **Language:** SQL, Python  
